@@ -1,2 +1,2 @@
-# mps69_Pharmacotherapy
+# mps69_pharmacotherapy
 Pharmacotherapy Management Project
